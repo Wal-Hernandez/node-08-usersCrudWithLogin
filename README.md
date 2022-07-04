@@ -1,1 +1,1 @@
-# node-08-products
+# node-08-WAL
